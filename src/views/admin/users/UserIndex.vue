@@ -1,12 +1,12 @@
 <template>
-    <div class="homestyle">
-        <h1>Roger</h1>
+    <div>
+        User Index works
     </div>
 </template>
 
 <script>
     export default {
-        name: "Roger"
+        name: "UserIndex"
     }
 </script>
 

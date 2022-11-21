@@ -1,5 +1,8 @@
 <template>
+    <div class="homestyle">
+
     <h2>about</h2>
+    </div>
 </template>
 
 <script>
