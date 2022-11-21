@@ -1,5 +1,5 @@
 <template>
-    <h1 style="color:red;font-family: Tahoma;border: 2px solid darkred;width: 65%">ERREUR 404</h1>
+    <h1 style="color:orangered;font-family: Tahoma;border: 2px solid darkred;width: 65%">ERREUR 404</h1>
 </template>
 
 <script>
